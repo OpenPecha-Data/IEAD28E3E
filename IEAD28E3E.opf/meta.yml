@@ -1,0 +1,87 @@
+id: IEAD28E3E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:44:15.157416'
+last_modified: '2022-06-17T11:44:15.157427'
+parser: null
+source_metadata:
+  title: Dhāraṇī Series
+  language: en
+  description: 'A selection of texts related to dhāraṇī (gzungs), mantric formulae
+    or incantations:'
+  volume:
+    fB24B:
+      title: The Dhāraṇī of Amitāyus
+      base_file: fB24B.txt
+      order: 1
+      parent: Amitāyus
+    f7EC8:
+      title: The ‘Chinese’ Practice of Averting Periodic Obstacles
+      base_file: f7EC8.txt
+      order: 2
+      parent: Averting Periodic Obstacles
+    fD946:
+      title: The Means for Accomplishment called the Blazing Wheel
+      base_file: fD946.txt
+      order: 3
+      parent: Blazing Wheel
+    f8E09:
+      title: The Noble Essence of Dependent Origination
+      base_file: f8E09.txt
+      order: 4
+      parent: Dependent Origination
+    f2A8B:
+      title: The Noble Mārīcī Dhāraṇī
+      base_file: f2A8B.txt
+      order: 5
+      parent: Mārīcī
+    f4B60:
+      title: Dhāraṇī of Goddess Parṇaśavarī
+      base_file: f4B60.txt
+      order: 6
+      parent: Parṇaśavarī
+    f86B1:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      base_file: f86B1.txt
+      order: 7
+      parent: Sitātapatrā
+    f6652:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      base_file: f6652.txt
+      order: 8
+      parent: Vajrapāṇi
+    fFC3D:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      base_file: fFC3D.txt
+      order: 9
+      parent: Vajravidāraṇa
+    f0BD6:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      base_file: f0BD6.txt
+      order: 10
+      parent: Various
+    fD2C0:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      base_file: fD2C0.txt
+      order: 11
+      parent: Vasudhārā
+    f7473:
+      title: The Dhāraṇī of Glorious Vajraṇakhī
+      base_file: f7473.txt
+      order: 12
+      parent: Vajraṇakhī
+    f326A:
+      title: Brief Dhāraṇī of Glorious Vajraṇakhī
+      base_file: f326A.txt
+      order: 13
+      parent: Vajraṇakhī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
